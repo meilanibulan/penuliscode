@@ -1,11 +1,16 @@
-# Halo semua! 
+# Halo semua 👋! 
 
-Perkenalkan nama saya **Meilani BulandariHsb**.<br>
+Perkenalkan nama saya **Meilani Bulandari Hasibuan**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya merupakan mahasiswa dari program studi Statistika FMIPA Universitas Syiah Kuala, saat ini saya menjalani perkuliahan semester 6
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]
+(https://www.linkedin.com/in/meilani-bulandari-hasibuan-620b42364/) ku ya.
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+### Github Statistic
+<p align="left">
+<a href="https://github.com/meilanibulan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meilanibulan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meilanibulan&layout=compact&theme=algolia"/>
+</a>
+</p>
