@@ -10,7 +10,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/meilanibulan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meilanibulan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meilanibulan&layout=compact&theme=algolia"/>
+  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meilanibulan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meilanibulan&layout=compact&theme=algolia"/>
 </a>
 </p>
